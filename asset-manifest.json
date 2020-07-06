@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sebastiantorres86/react-tutorial/static/css/main.74295e73.chunk.css",
-    "main.js": "/sebastiantorres86/react-tutorial/static/js/main.039d9ba9.chunk.js",
-    "main.js.map": "/sebastiantorres86/react-tutorial/static/js/main.039d9ba9.chunk.js.map",
-    "runtime-main.js": "/sebastiantorres86/react-tutorial/static/js/runtime-main.7fd711af.js",
-    "runtime-main.js.map": "/sebastiantorres86/react-tutorial/static/js/runtime-main.7fd711af.js.map",
-    "static/js/2.67691ccd.chunk.js": "/sebastiantorres86/react-tutorial/static/js/2.67691ccd.chunk.js",
-    "static/js/2.67691ccd.chunk.js.map": "/sebastiantorres86/react-tutorial/static/js/2.67691ccd.chunk.js.map",
-    "index.html": "/sebastiantorres86/react-tutorial/index.html",
-    "precache-manifest.96f6dea8e50fe4d08c373b29dc696edc.js": "/sebastiantorres86/react-tutorial/precache-manifest.96f6dea8e50fe4d08c373b29dc696edc.js",
-    "service-worker.js": "/sebastiantorres86/react-tutorial/service-worker.js",
-    "static/css/main.74295e73.chunk.css.map": "/sebastiantorres86/react-tutorial/static/css/main.74295e73.chunk.css.map",
-    "static/js/2.67691ccd.chunk.js.LICENSE.txt": "/sebastiantorres86/react-tutorial/static/js/2.67691ccd.chunk.js.LICENSE.txt"
+    "main.css": "/sebastiantorres86.io/react-tutorial/static/css/main.74295e73.chunk.css",
+    "main.js": "/sebastiantorres86.io/react-tutorial/static/js/main.039d9ba9.chunk.js",
+    "main.js.map": "/sebastiantorres86.io/react-tutorial/static/js/main.039d9ba9.chunk.js.map",
+    "runtime-main.js": "/sebastiantorres86.io/react-tutorial/static/js/runtime-main.cbecbff3.js",
+    "runtime-main.js.map": "/sebastiantorres86.io/react-tutorial/static/js/runtime-main.cbecbff3.js.map",
+    "static/js/2.67691ccd.chunk.js": "/sebastiantorres86.io/react-tutorial/static/js/2.67691ccd.chunk.js",
+    "static/js/2.67691ccd.chunk.js.map": "/sebastiantorres86.io/react-tutorial/static/js/2.67691ccd.chunk.js.map",
+    "index.html": "/sebastiantorres86.io/react-tutorial/index.html",
+    "precache-manifest.4d1ed5c5ed014bcfab29e4817dc8d8cf.js": "/sebastiantorres86.io/react-tutorial/precache-manifest.4d1ed5c5ed014bcfab29e4817dc8d8cf.js",
+    "service-worker.js": "/sebastiantorres86.io/react-tutorial/service-worker.js",
+    "static/css/main.74295e73.chunk.css.map": "/sebastiantorres86.io/react-tutorial/static/css/main.74295e73.chunk.css.map",
+    "static/js/2.67691ccd.chunk.js.LICENSE.txt": "/sebastiantorres86.io/react-tutorial/static/js/2.67691ccd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fd711af.js",
+    "static/js/runtime-main.cbecbff3.js",
     "static/js/2.67691ccd.chunk.js",
     "static/css/main.74295e73.chunk.css",
     "static/js/main.039d9ba9.chunk.js"
